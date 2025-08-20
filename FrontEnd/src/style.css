@@ -1,0 +1,426 @@
+/* ==========================================================================
+   Global & HealthCareLogin Styles
+   ========================================================================== */
+
+/* General Page Styling */
+.login-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #eef1f5;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.login-container {
+  display: flex;
+  width: 100%;
+  max-width: 900px;
+  min-height: 550px;
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+/* Left Side - Branding */
+.login-branding {
+  flex: 1;
+  background: linear-gradient(135deg, #007bff, #0056b3);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  text-align: center;
+}
+
+.branding-content h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.branding-content p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* Right Side - Form Area */
+.login-form-area {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.login-form {
+  width: 100%;
+  max-width: 350px;
+}
+
+.form-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.logo {
+  width: 60px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.form-header h2 {
+  color: #333;
+  font-size: 1.8rem;
+  margin: 0;
+}
+
+.form-options {
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.forgot-password-link {
+    color: #007bff;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.login-button {
+  width: 100%;
+  padding: 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.login-button:hover {
+  background-color: #0056b3;
+}
+
+.signup-text {
+  text-align: center;
+  margin-top: 25px;
+  color: #666;
+}
+
+.signup-text a {
+  color: #007bff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+
+/* ==========================================================================
+   Registration Form Styles (Doctor, Patient, Admin)
+   ========================================================================== */
+.auth-page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f7f6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.auth-form {
+  padding: 40px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+  box-sizing: border-box;
+}
+
+.auth-form h2 {
+  margin-top: 0;
+  margin-bottom: 24px;
+  text-align: center;
+  color: #333;
+}
+
+.auth-button {
+  width: 100%;
+  padding: 12px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.auth-button:hover {
+  background-color: #0056b3;
+}
+
+.auth-switch-text {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.auth-switch-text a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.auth-switch-text a:hover {
+  text-decoration: underline;
+}
+
+
+/* ==========================================================================
+   Shared Form Group Styles (for both Login and Register)
+   ========================================================================== */
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  font-weight: 600;
+  color: #555;
+  margin-bottom: 8px;
+}
+
+.form-group input,
+.form-group select {
+  width: 100%;
+  padding: 12px 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.form-group input:focus,
+.form-group select:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.2);
+}
+
+/* ==========================================================================
+   Dashboard Styles
+   ========================================================================== */
+.dashboard-container {
+  padding: 20px;
+  background-color: #f4f7f6;
+  min-height: 100vh;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.dashboard-container h2 {
+  margin-top: 0;
+  margin-bottom: 24px;
+  color: #333;
+  font-size: 1.8rem;
+}
+
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  margin-bottom: 24px;
+}
+
+.stat-card {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+}
+
+.stat-card .stat-label {
+  color: #666;
+  font-size: 0.9rem;
+  margin-bottom: 8px;
+}
+
+.stat-card .stat-value {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #333;
+}
+
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 20px;
+}
+
+.dashboard-section {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.dashboard-section h3 {
+  margin-top: 0;
+  margin-bottom: 16px;
+  color: #333;
+  font-size: 1.2rem;
+}
+
+.dashboard-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.dashboard-table th {
+  text-align: left;
+  padding: 12px 8px;
+  border-bottom: 1px solid #eee;
+  font-weight: 600;
+  color: #555;
+}
+
+.dashboard-table td {
+  padding: 12px 8px;
+  border-bottom: 1px solid #f2f2f2;
+}
+
+.dashboard-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.dashboard-list li {
+  padding: 12px 0;
+  border-bottom: 1px solid #f2f2f2;
+}
+
+.dashboard-list li:last-child {
+  border-bottom: none;
+}
+
+.patient-name {
+  font-weight: 600;
+  color: #333;
+}
+
+.patient-email {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.appointment-reason {
+  color: #475467;
+  margin: 4px 0;
+}
+
+.appointment-time {
+  color: #667085;
+  font-size: 0.9rem;
+}
+
+.search-input {
+  width: 100%;
+  padding: 12px 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;
+  margin-bottom: 16px;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.2);
+}
+
+.dashboard-button {
+  padding: 8px 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: background-color 0.3s;
+}
+
+.dashboard-button:hover {
+  background-color: #0056b3;
+}
+
+.dashboard-button.secondary {
+  background-color: #6c757d;
+}
+
+.dashboard-button.secondary:hover {
+  background-color: #545b62;
+}
+
+.dashboard-button.success {
+  background-color: #28a745;
+}
+
+.dashboard-button.success:hover {
+  background-color: #1e7e34;
+}
+
+.dashboard-button.danger {
+  background-color: #dc3545;
+}
+
+.dashboard-button.danger:hover {
+  background-color: #c82333;
+}
+
+.button-group {
+  display: flex;
+  gap: 8px;
+}
+
+.empty-state {
+  color: #667085;
+  text-align: center;
+  padding: 20px;
+}
+
+.prescription-notes {
+  color: #667085;
+  font-size: 0.9rem;
+  margin: 4px 0;
+}
+
+.prescription-date {
+  color: #98a2b3;
+  font-size: 0.8rem;
+}
+
+.max-height-list {
+  max-height: 260px;
+  overflow: auto;
+}
+
+.max-height-prescriptions {
+  max-height: 180px;
+  overflow: auto;
+}
+
+@media (max-width: 768px) {
+  .dashboard-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .stats-grid {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
+}

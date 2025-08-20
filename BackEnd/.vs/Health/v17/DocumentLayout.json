@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF5AD0F-81DD-4BF8-99CA-57FF9CD912BA}|Health.Infrastructure\\Health.Infrastructure.csproj|c:\\users\\cognizant office acc\\desktop\\final code\\health-care-system_ttp1dedr2511_team-2\\health\\health.infrastructure\\dbcontext\\healthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF5AD0F-81DD-4BF8-99CA-57FF9CD912BA}|Health.Infrastructure\\Health.Infrastructure.csproj|solutionrelative:health.infrastructure\\dbcontext\\healthdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A61EC4-9A52-41E4-8201-2799F832FF19}|Health.API\\Health.API.csproj|c:\\users\\cognizant office acc\\desktop\\final code\\health-care-system_ttp1dedr2511_team-2\\health\\health.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19A61EC4-9A52-41E4-8201-2799F832FF19}|Health.API\\Health.API.csproj|solutionrelative:health.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C862170-395B-4331-A2AB-4581BEC1D14E}|Health.Application\\Health.Application.csproj|c:\\users\\cognizant office acc\\desktop\\final code\\health-care-system_ttp1dedr2511_team-2\\health\\health.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C862170-395B-4331-A2AB-4581BEC1D14E}|Health.Application\\Health.Application.csproj|solutionrelative:health.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C862170-395B-4331-A2AB-4581BEC1D14E}|Health.Application\\Health.Application.csproj|c:\\users\\cognizant office acc\\desktop\\final code\\health-care-system_ttp1dedr2511_team-2\\health\\health.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C862170-395B-4331-A2AB-4581BEC1D14E}|Health.Application\\Health.Application.csproj|solutionrelative:health.application\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A61EC4-9A52-41E4-8201-2799F832FF19}|Health.API\\Health.API.csproj|c:\\users\\cognizant office acc\\desktop\\final code\\health-care-system_ttp1dedr2511_team-2\\health\\health.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A61EC4-9A52-41E4-8201-2799F832FF19}|Health.API\\Health.API.csproj|solutionrelative:health.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A61EC4-9A52-41E4-8201-2799F832FF19}|Health.API\\Health.API.csproj|c:\\users\\cognizant office acc\\desktop\\final code\\health-care-system_ttp1dedr2511_team-2\\health\\health.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A61EC4-9A52-41E4-8201-2799F832FF19}|Health.API\\Health.API.csproj|solutionrelative:health.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A61EC4-9A52-41E4-8201-2799F832FF19}|Health.API\\Health.API.csproj|c:\\users\\cognizant office acc\\desktop\\final code\\health-care-system_ttp1dedr2511_team-2\\health\\health.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A61EC4-9A52-41E4-8201-2799F832FF19}|Health.API\\Health.API.csproj|solutionrelative:health.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19A61EC4-9A52-41E4-8201-2799F832FF19}|Health.API\\Health.API.csproj|c:\\users\\cognizant office acc\\desktop\\final code\\health-care-system_ttp1dedr2511_team-2\\health\\health.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19A61EC4-9A52-41E4-8201-2799F832FF19}|Health.API\\Health.API.csproj|solutionrelative:health.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C862170-395B-4331-A2AB-4581BEC1D14E}|Health.Application\\Health.Application.csproj|c:\\users\\cognizant office acc\\desktop\\final code\\health-care-system_ttp1dedr2511_team-2\\health\\health.application\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C862170-395B-4331-A2AB-4581BEC1D14E}|Health.Application\\Health.Application.csproj|solutionrelative:health.application\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C862170-395B-4331-A2AB-4581BEC1D14E}|Health.Application\\Health.Application.csproj|c:\\users\\cognizant office acc\\desktop\\final code\\health-care-system_ttp1dedr2511_team-2\\health\\health.application\\services\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C862170-395B-4331-A2AB-4581BEC1D14E}|Health.Application\\Health.Application.csproj|solutionrelative:health.application\\services\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C862170-395B-4331-A2AB-4581BEC1D14E}|Health.Application\\Health.Application.csproj|c:\\users\\cognizant office acc\\desktop\\final code\\health-care-system_ttp1dedr2511_team-2\\health\\health.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C862170-395B-4331-A2AB-4581BEC1D14E}|Health.Application\\Health.Application.csproj|solutionrelative:health.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C862170-395B-4331-A2AB-4581BEC1D14E}|Health.Application\\Health.Application.csproj|c:\\users\\cognizant office acc\\desktop\\final code\\health-care-system_ttp1dedr2511_team-2\\health\\health.application\\dto\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C862170-395B-4331-A2AB-4581BEC1D14E}|Health.Application\\Health.Application.csproj|solutionrelative:health.application\\dto\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF5AD0F-81DD-4BF8-99CA-57FF9CD912BA}|Health.Infrastructure\\Health.Infrastructure.csproj|c:\\users\\cognizant office acc\\desktop\\final code\\health-care-system_ttp1dedr2511_team-2\\health\\health.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF5AD0F-81DD-4BF8-99CA-57FF9CD912BA}|Health.Infrastructure\\Health.Infrastructure.csproj|solutionrelative:health.infrastructure\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF5AD0F-81DD-4BF8-99CA-57FF9CD912BA}|Health.Infrastructure\\Health.Infrastructure.csproj|c:\\users\\cognizant office acc\\desktop\\final code\\health-care-system_ttp1dedr2511_team-2\\health\\health.infrastructure\\contracts\\iappointmentcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF5AD0F-81DD-4BF8-99CA-57FF9CD912BA}|Health.Infrastructure\\Health.Infrastructure.csproj|solutionrelative:health.infrastructure\\contracts\\iappointmentcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74ADB541-A5CA-4E42-B3E7-8E936B61FC5C}|Health.Domain\\Health.Domain.csproj|c:\\users\\cognizant office acc\\desktop\\final code\\health-care-system_ttp1dedr2511_team-2\\health\\health.domain\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74ADB541-A5CA-4E42-B3E7-8E936B61FC5C}|Health.Domain\\Health.Domain.csproj|solutionrelative:health.domain\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74ADB541-A5CA-4E42-B3E7-8E936B61FC5C}|Health.Domain\\Health.Domain.csproj|c:\\users\\cognizant office acc\\desktop\\final code\\health-care-system_ttp1dedr2511_team-2\\health\\health.domain\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74ADB541-A5CA-4E42-B3E7-8E936B61FC5C}|Health.Domain\\Health.Domain.csproj|solutionrelative:health.domain\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HealthDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Infrastructure\\DBContext\\HealthDBContext.cs",
+              "RelativeDocumentMoniker": "Health.Infrastructure\\DBContext\\HealthDBContext.cs",
+              "ToolTip": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Infrastructure\\DBContext\\HealthDBContext.cs",
+              "RelativeToolTip": "Health.Infrastructure\\DBContext\\HealthDBContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:02:19.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Health.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Health.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T04:40:39.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.API\\Program.cs",
+              "RelativeDocumentMoniker": "Health.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.API\\Program.cs",
+              "RelativeToolTip": "Health.API\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:59:37.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Health.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.API\\appsettings.json",
+              "RelativeToolTip": "Health.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T15:39:51.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Application\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Health.Application\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Application\\Services\\IUserService.cs",
+              "RelativeToolTip": "Health.Application\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:28:52.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Health.API\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Health.API\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwEQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:19:03.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Application\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "Health.Application\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Application\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "Health.Application\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:31:53.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Health.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Health.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:04:38.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Application\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "Health.Application\\Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Application\\Services\\DoctorService.cs",
+              "RelativeToolTip": "Health.Application\\Services\\DoctorService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:44:29.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Application\\Services\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "Health.Application\\Services\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Application\\Services\\IDoctorService.cs",
+              "RelativeToolTip": "Health.Application\\Services\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:44:47.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Health.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Health.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T15:18:08.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Application\\DTO\\DoctorDTO.cs",
+              "RelativeDocumentMoniker": "Health.Application\\DTO\\DoctorDTO.cs",
+              "ToolTip": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Application\\DTO\\DoctorDTO.cs",
+              "RelativeToolTip": "Health.Application\\DTO\\DoctorDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:47:47.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "Health.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "Health.Infrastructure\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:29:32.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAppointmentContract.cs",
+              "DocumentMoniker": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Infrastructure\\Contracts\\IAppointmentContract.cs",
+              "RelativeDocumentMoniker": "Health.Infrastructure\\Contracts\\IAppointmentContract.cs",
+              "ToolTip": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Infrastructure\\Contracts\\IAppointmentContract.cs",
+              "RelativeToolTip": "Health.Infrastructure\\Contracts\\IAppointmentContract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:31:43.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Domain\\Doctor.cs",
+              "RelativeDocumentMoniker": "Health.Domain\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Domain\\Doctor.cs",
+              "RelativeToolTip": "Health.Domain\\Doctor.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:04:35.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Domain\\Admin.cs",
+              "RelativeDocumentMoniker": "Health.Domain\\Admin.cs",
+              "ToolTip": "C:\\Users\\Cognizant Office Acc\\Desktop\\Final code\\health-care-system_ttp1dedr2511_team-2\\Health\\Health.Domain\\Admin.cs",
+              "RelativeToolTip": "Health.Domain\\Admin.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:04:24.351Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{02c9407d-69f0-4910-b5c7-0dff86947e95}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
